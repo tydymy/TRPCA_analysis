@@ -2,7 +2,7 @@
 # Chronological Age Estimation from Human Microbiomes with TRPCA
 
 ## Overview  
-This repository contains the results and code for **Transformer-based Robust Principal Component Analysis (TRPCA)**, a deep-learning framework for predicting chronological age from skin, oral and gut microbiome profiles (16S rRNA and WGS). TRPCA leverages RPCA for dimensionality reduction and a lightweight transformer encoder for regression and multi-task learning, offering both accuracy gains and feature-level interpretability.
+This repository contains the results and code for **Transformer-based Robust Principal Component Analysis (TRPCA)**, a deep-learning framework for predicting chronological age from skin, oral and gut microbiome profiles (16S rRNA and WGS). TRPCA leverages RPCA for dimensionality reduction and a lightweight transformer encoder for regression and multi-task learning, offering both accuracy improvements and feature-level interpretability.
 
 ---
 
